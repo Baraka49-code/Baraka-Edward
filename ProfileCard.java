@@ -14,7 +14,7 @@ public class ProfileCard {
         String background ="Learned C programming,JSON,Python,HTML,CSS and Javascript.Also driven to learn the Object Oriented Programming in Java";
 
         //Course goal
-        String goal ="To learn and ,master the Object Oriented Programming in Java and be passionate programmer";
+        String goal ="To learn and master the Object Oriented Programming in Java and be passionate programmer";
 
         //Fun fact
         String funFact ="I enjoy the programming life by solving logic problems gradually from simple to complex ones";
